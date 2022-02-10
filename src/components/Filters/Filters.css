@@ -1,0 +1,13 @@
+.filters-container {
+    margin-top: 30px;
+}
+
+.launch-site-filter {
+  min-width: 200px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.rocket-filter {
+  min-width: 200px;
+}
